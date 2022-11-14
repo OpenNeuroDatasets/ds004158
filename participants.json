@@ -14,6 +14,11 @@
 		},
     "GUID": {
         "Description" : "Unique participant ID as set in the INT"
+    },
+    "eTIV": {
+    	"LongName": "EstimatedTotalIntraCranialVol",
+        "Description" : "Estimated total intracranial volume as measured with 'mri_segstats' function of Freesurfer (mri_segstats --subject subjid --etiv-only)",
+        "Units": "mm3"
     }
     
 }
