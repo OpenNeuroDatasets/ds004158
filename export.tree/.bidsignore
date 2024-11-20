@@ -1,0 +1,7 @@
+*_eyetrack.tsv.gz
+*_eyetrack.json
+*_physio.json
+*_physio.tsv.gz
+*_physioevents.json
+*_physioevents.tsv.gz
+*_events.json
