@@ -1,3 +1,5 @@
+2.0.6 2025-05-09
+  - updated jsons according to new BEP020 updates
 2.0.5 2025-01-17
   - correct Start/StopTime and add an empty events.tsv
 2.0.4 2024-12-19
