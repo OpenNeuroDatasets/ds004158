@@ -1,0 +1,17 @@
+{
+    "PupilFitMethod": "CENTROID",
+    "StartTime": -120.269,
+    "CalibrationCount": 1,
+    "CalibrationType": "HV13",
+    "RecordedEye": "Left",
+    "AverageCalibrationError": [
+        [
+            0.53
+        ]
+    ],
+    "MaximalCalibrationError": [
+        [
+            0.84
+        ]
+    ]
+}
